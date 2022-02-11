@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+
+#header-odin{
+    background-color: white;
+    color: green;   
+    font-size: 36px;
+}
+
+.ninja-turtles{
+    height: auto;
+    width: 540;
+}
+
+#pizza{
+    font-size: 42px;
+    font-weight: 100;
+    color: crimson;
+}
+
+.recipes{
+    font-size: 20px;
+
+}
