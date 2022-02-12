@@ -9,4 +9,11 @@ the assignment took me really really long to complete, I probably took time for 
 However, I had fun once I let the assignment take its own course.
 At first the work load stunned me into thinking theres no way.
 To me struggling to work though it, eventually it just seemed like it needed a bit more work to it having the specifications required to progress.
+
+2/11/2022 5:57pm PST
+In this part of the assignment I've been able to learn very basic fundimentals about css.
+I've learned about selectors, classes, ids. amd type selectors as well as the universal selectors.
+It's an overwhelming about of informatoin to wrap my head around.
+so far I've been able to include styles to my home page.
+I'm working on the other pages as soon as I finish typing this.
 # TheOdinProject
