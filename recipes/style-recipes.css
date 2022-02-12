@@ -1,3 +1,23 @@
 body{
     text-align: center;
 }
+
+.header{
+    color: green;
+}
+
+.food{
+    width: 500px;
+    height: auto;
+}
+
+.discription{
+    color:black;
+    font-family: "Verdana", sans-serif;
+    font-size: 14px;
+    font-weight:100px;
+}
+
+.ingredients{
+    list-style-type:none;
+}
