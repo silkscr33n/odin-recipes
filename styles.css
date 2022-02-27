@@ -1,25 +1,45 @@
 body{
+    background-color: #ffffff;
     text-align: center;
 }
 
 #header-odin{
-    background-color: white;
-    color: green;   
+    display:inline-block;
+    color:#5ec980;
+    /* color: green; */
     font-size: 36px;
+    border:2px solid #fdf496;
+    padding:25px
 }
 
 .ninja-turtles{
     height: auto;
     width: 540;
+        margin-top:35px
+        
 }
 
 #pizza{
+    display:inline-block;
+    border:2px solid #fdf496;
+    padding:24px;
     font-size: 42px;
-    font-weight: 100;
-    color: crimson;
+    font-weight:400;
+    color: #5ec980
+    ;
 }
 
-.recipes{
-    font-size: 20px;
+.recipes {
+    display:inline-block;
+    padding-block: 0px;
+    padding: 29px;
+    background-color: white;
+    color: white;
+    /* color: white; */
+    font-family: 'Sofia';
+}
 
+li {
+    color:crimson
+    ;
 }
