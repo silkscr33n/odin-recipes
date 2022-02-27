@@ -7,7 +7,7 @@ body{
     display:inline-block;
     color:#5ec980;
     /* color: green; */
-    font-size: 36px;
+    font-size: 80px;
     border:2px solid #fdf496;
     padding:25px
 }
@@ -37,6 +37,7 @@ body{
     color: white;
     /* color: white; */
     font-family: 'Sofia';
+    font-size: x-large;
 }
 
 li {
