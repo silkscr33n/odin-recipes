@@ -30,14 +30,14 @@ body{
 }
 
 .recipes {
-    display:inline-block;
-    padding-block: 0px;
-    padding: 29px;
+    padding: 25px;
+    border:1px solid #2294f7;
     background-color: white;
+    
     color: white;
     /* color: white; */
     font-family: 'Sofia';
-    font-size: x-large;
+    font-size: 42px;
 }
 
 li {
